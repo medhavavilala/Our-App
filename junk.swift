@@ -14,6 +14,7 @@ struct IntroView: View {
                 .resizable()
                 .scaledToFit()
                 .hoverEffect()
+                .hoverEffect()
     }
         Text("Hello, welcome to my app!")
             .bold()
